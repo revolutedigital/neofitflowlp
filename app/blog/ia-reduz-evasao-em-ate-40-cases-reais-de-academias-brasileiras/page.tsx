@@ -224,19 +224,19 @@ export default function BlogPost() {
 
 <h2>⚠️ 3 Erros Comuns que Você Deve Evitar</h2>
 
-<div style="background: #fee; border-left: 4px solid #ef4444; padding: 20px; margin: 20px 0;">
+<div style={{ background: '#fee', borderLeft: '4px solid #ef4444', padding: '20px', margin: '20px 0' }}>
 <h3>❌ Erro 1: Confiar 100% na Automação</h3>
 <p>IA é poderosa, mas não substitui completamente o contato humano. Alertas críticos (vermelho) exigem ação pessoal do gestor ou equipe. Ignorar isso reduz drasticamente a eficácia do sistema.</p>
 <p><strong>Solução:</strong> Defina responsável por revisar diariamente casos críticos e fazer contato direto quando necessário.</p>
 </div>
 
-<div style="background: #fee; border-left: 4px solid #ef4444; padding: 20px; margin: 20px 0;">
+<div style={{ background: '#fee', borderLeft: '4px solid #ef4444', padding: '20px', margin: '20px 0' }}>
 <h3>❌ Erro 2: Mensagens Genéricas e Robotizadas</h3>
 <p>Mensagens tipo "Cadê você?" têm baixíssima taxa de resposta. A IA permite personalização baseada em modalidade, histórico, objetivos do aluno. Use esse potencial!</p>
 <p><strong>Solução:</strong> Configure templates diferentes para cada modalidade e perfil de aluno, com tom empático e oferta de ajuda real.</p>
 </div>
 
-<div style="background: #fee; border-left: 4px solid #ef4444; padding: 20px; margin: 20px 0;">
+<div style={{ background: '#fee', borderLeft: '4px solid #ef4444', padding: '20px', margin: '20px 0' }}>
 <h3>❌ Erro 3: Focar Apenas em "Apagar Incêndios"</h3>
 <p>Sistema preditivo não é só para resgatar alunos em risco. Use insights para melhorar experiência, ajustar operação, prevenir problemas sistêmicos antes que afetem mais pessoas.</p>
 <p><strong>Solução:</strong> Reunião mensal analisando padrões e implementando melhorias preventivas na operação.</p>
@@ -294,10 +294,10 @@ export default function BlogPost() {
 
 <p>Não se trata mais de "se" você vai implementar IA para retenção, mas <strong>"quando"</strong>. Quanto mais cedo começar, mais alunos (e receita) você vai salvar.</p>
 
-<div style="background: linear-gradient(135deg, #E0E7FF 0%, #F3E8FF 100%); padding: 40px; border-radius: 12px; margin: 40px 0; text-align: center;">
-<h3 style="color: #1f2937; margin-bottom: 20px;">🤖 Comece a Prevenir Cancelamentos Hoje</h3>
-<p style="color: #374151; margin-bottom: 30px; font-size: 18px;">Descubra como o NeoFitFlow pode reduzir evasão em até 40% e aumentar MRR da sua academia.</p>
-<a href="https://neofitflow.com.br" style="background: white; color: #667eea; padding: 16px 32px; border-radius: 8px; text-decoration: none; font-weight: bold; display: inline-block;">Teste Grátis por 14 Dias</a>
+<div style={{ background: 'linear-gradient(135deg, #E0E7FF 0%, #F3E8FF 100%)', padding: '40px', borderRadius: '12px', margin: '40px 0', textAlign: 'center' }}>
+<h3 style={{ color: '#1f2937', marginBottom: '20px' }}>🤖 Comece a Prevenir Cancelamentos Hoje</h3>
+<p style={{ color: '#374151', marginBottom: '30px', fontSize: '18px' }}>Descubra como o NeoFitFlow pode reduzir evasão em até 40% e aumentar MRR da sua academia.</p>
+<a href="https://neofitflow.com.br" style={{ background: 'white', color: '#667eea', padding: '16px 32px', borderRadius: '8px', textDecoration: 'none', fontWeight: 'bold', display: 'inline-block' }}>Teste Grátis por 14 Dias</a>
 </div>
 
 <h2>📚 Leia Também</h2>

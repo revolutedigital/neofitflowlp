@@ -256,19 +256,19 @@ export default function BlogPost() {
 
 <h2>⚠️ 3 Erros Comuns Ao Usar IA Para Prever Cancelamentos</h2>
 
-<div style="background: #fee; border-left: 4px solid #ef4444; padding: 20px; margin: 20px 0;">
+<div style={{ background: '#fee', borderLeft: '4px solid #ef4444', padding: '20px', margin: '20px 0' }}>
 <h3>❌ Erro 1: Confiar 100% na Automação e Ignorar Alertas Críticos</h3>
 <p>A IA faz o trabalho pesado, mas <strong>alertas vermelhos exigem ação humana</strong>. Ignorar um aluno em risco crítico porque "o sistema vai cuidar" é desperdiçar a tecnologia. A IA detecta, você conecta.</p>
 <p><strong>Solução:</strong> Defina responsável por revisar diariamente alunos em risco alto/crítico.</p>
 </div>
 
-<div style="background: #fee; border-left: 4px solid #ef4444; padding: 20px; margin: 20px 0;">
+<div style={{ background: '#fee', borderLeft: '4px solid #ef4444', padding: '20px', margin: '20px 0' }}>
 <h3>❌ Erro 2: Não Personalizar Mensagens Automáticas</h3>
 <p>Mensagens genéricas tipo "Cadê você?" têm baixa taxa de resposta. A IA permite personalização por modalidade, horário preferido, objetivo do aluno. Use isso!</p>
 <p><strong>Solução:</strong> Configure templates diferentes para musculação, crossfit, pilates, dança, MMA.</p>
 </div>
 
-<div style="background: #fee; border-left: 4px solid #ef4444; padding: 20px; margin: 20px 0;">
+<div style={{ background: '#fee', borderLeft: '4px solid #ef4444', padding: '20px', margin: '20px 0' }}>
 <h3>❌ Erro 3: Focar Apenas em Salvar, Não em Prevenir</h3>
 <p>IA não é só para "apagar incêndios". Use dados preditivos para <strong>criar ambiente que previne</strong> o desengajamento: melhorar experiência, ajustar horários, criar comunidade.</p>
 <p><strong>Solução:</strong> Reunião mensal analisando padrões de risco e ajustando operação preventivamente.</p>
@@ -328,10 +328,10 @@ export default function BlogPost() {
 
 <p>A pergunta não é mais "se" você vai usar IA para retenção, mas <strong>"quando"</strong>. Quanto mais cedo começar, mais alunos (e receita) você vai salvar.</p>
 
-<div style="background: linear-gradient(135deg, #E0E7FF 0%, #F3E8FF 100%); padding: 40px; border-radius: 12px; margin: 40px 0; text-align: center;">
-<h3 style="color: #1f2937; margin-bottom: 20px;">🤖 Experimente Previsão de Cancelamentos com IA</h3>
-<p style="color: #374151; margin-bottom: 30px; font-size: 18px;">Descubra quais alunos estão em risco agora e comece a salvar até 40% mais alunos com o NeoFitFlow.</p>
-<a href="https://neofitflow.com.br" style="background: white; color: #667eea; padding: 16px 32px; border-radius: 8px; text-decoration: none; font-weight: bold; display: inline-block;">Testar Grátis por 14 Dias</a>
+<div style={{ background: 'linear-gradient(135deg, #E0E7FF 0%, #F3E8FF 100%)', padding: '40px', borderRadius: '12px', margin: '40px 0', textAlign: 'center' }}>
+<h3 style={{ color: '#1f2937', marginBottom: '20px' }}>🤖 Experimente Previsão de Cancelamentos com IA</h3>
+<p style={{ color: '#374151', marginBottom: '30px', fontSize: '18px' }}>Descubra quais alunos estão em risco agora e comece a salvar até 40% mais alunos com o NeoFitFlow.</p>
+<a href="https://neofitflow.com.br" style={{ background: 'white', color: '#667eea', padding: '16px 32px', borderRadius: '8px', textDecoration: 'none', fontWeight: 'bold', display: 'inline-block' }}>Testar Grátis por 14 Dias</a>
 </div>
 
 <h2>📚 Leia Também</h2>
